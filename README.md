@@ -16,9 +16,9 @@ Merges the training and the test sets to create one data set. Extracts only the 
 
 #Steps to Get the output :
 
-run_analysis.R contains my R script with brief comments for each step
-save the run_analysis and edit the path for raw data files in your local drive.
-Run the script, Automatically a Tidydata.txt and Tidaydata.csv are created
+-run_analysis.R contains my R script with brief comments for each step
+-save the run_analysis and edit the path for raw data files in your local drive.
+-Run the script, Automatically a Tidydata.txt and Tidaydata.csv are created
 
 #OUTPUT produced:
 - It generates a txt file called Tidydata.txt which contain the Tidydata of the project.
